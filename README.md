@@ -1,4 +1,4 @@
-Node.js sample app on OpenShift!
+Node.js sample app on OpenShift! [![Build Status](https://travis-ci.org/Vathasav/nodejs-ex.svg?branch=master)](https://travis-ci.org/Vathasav/nodejs-ex)
 -----------------
 
 This example will serve a welcome page and the current hit count as stored in a database.
